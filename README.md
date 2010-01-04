@@ -1,6 +1,5 @@
 # Philly ETE 2010 Talk
 
-
 Work with Trotter on ideas for the presentation...
 
 ## Use Of Open Source in the Enterprise or Financial Industry
@@ -17,9 +16,7 @@ YUI, jQuery, our pretty complex web front end using very small bits of data back
 
 Using BDD to increase applicaiton quality.  Adjunct to unit testing, not a replacement for QA but augmentation of QA.  Catches what was already caught, but very little new.  Doesn't catch things like: "That took too long"; "That doesn't look right" and so on.  Does enure that things are working as expected (for the most part), in ways that Unit testing and human based testing just doesn't even come close to.
 
-A
-
-## Automated Deployment: Chef, the Art and The Practice of Autoamted Deployment and Provisoining
+## Automated Deployment: Chef, the Art and The Practice of Automated Deployment and Provisoining
 
 ## Patterns of Enterprise Messaging with AMQP and RabbitMQ
 
