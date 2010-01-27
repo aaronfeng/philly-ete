@@ -58,11 +58,63 @@ How about a Chef/Cucumber/JRuby/Clojure/AMQP/RabbitMQ(ergo Erlang) "in the real 
 Somehow do an end to end walkthrough of the systems you guys work on, and all the touchpoints that emerging technology has in it. All in 45 minutes. Not sure if this is doable, or how much value people would see it. I think it would be a cool talk. The point could just be to illustrate how you can build something big and fast and reliable using all this emerging open source tech.
 
 
+## Strategies for Living on the Bleeding Edge: A Case Study in the Financial Industry
 
-## Leveraging Early Adopter Technologies for high productivity in the Financial Industry
-## Agility with Early Adopter Technologies in the Financial Industry
-## Leveraging Emerging Technologies to Make Your Small Team Seem Big
-## Leveraging Emerging Technologies to Make A Small Team Seem Big in the Financial Industry
+## Strategies for Living on the Bleeding Edge in the Financial Industry: A Case Study in Using Clojure, AMQP, Chef, Cucumber and JRuby
+
+Proposed Summary:
+
+Have you been itching to try emerging technologies like Clojure, AMQP, Chef,
+Cucumber or JRuby? We'll cover what happened to us when we proposed these hot
+(unproven!) new technologies, management said yes, and we had to deliver by
+sharing our story of building a message exchange in the financial industry. We
+think hearing our story will help give you the confidence to take these
+technologies into your own enterprise.
+
+
+
+--------------------
+
+Early in the slides: these technologies won't win on their own.  What they will
+do is allow you to attract and retain talent and act as a multiplier for your
+resources.
+
+Anticipated Questions:
+
+How did you get to use them?
+  Prototype, showed good ROI
+
+How did you get management to agree?
+  Prototype, showed good ROI
+  Allowed the company to attract good local talent (the technology was attractive)
+
+How did you hire? / How did you find people who knew these things?
+
+How did you show ROI?
+
+How did you integrate between .NET, Linux, Java, in otherwords across all of these technologies?
+
+Why didn't you use standard J2EE technologies?
+
+How did you get this to perform?
+
+
+
+## Strategies for Living on the Bleeding Edge in the Financial Industry: A Case Study
+
+We have the feeling that you feel that the title would have more draw if the
+specific technologies were mentioned in the title, so we could go with what you
+suggested previosuly, or what about something like:
+
+
+
+
+Other titles
+
+ - Leveraging Early Adopter Technologies for high productivity in the Financial Industry
+ - Agility with Early Adopter Technologies in the Financial Industry
+ - Leveraging Emerging Technologies to Make Your Small Team Seem Big
+ - Leveraging Emerging Technologies to Make A Small Team Seem Big in the Financial Industry
 
 Who We Are
  - company
@@ -395,6 +447,5 @@ JMS, (IBM?) MQ, MSMQ or Tibco's days may be numbered, there's a new protocol in 
 
 "That did make it ok to live on the bleeding edge." - Trotter talking about things like Chef, Cucumber, Rspec and automation
 
-New title?  "Strategies for Living on the Bleeding Edge; A Case Study in the Financial Industry"
 
 
