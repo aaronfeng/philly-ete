@@ -391,3 +391,10 @@ JMS, (IBM?) MQ, MSMQ or Tibco's days may be numbered, there's a new protocol in 
 - Part V: Clustering, Failover
 
 
+## notes from the 2010/01/21 Conference Call
+
+"That did make it ok to live on the bleeding edge." - Trotter talking about things like Chef, Cucumber, Rspec and automation
+
+New title?  "Strategies for Living on the Bleeding Edge; A Case Study in the Financial Industry"
+
+
