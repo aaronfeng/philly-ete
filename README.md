@@ -58,9 +58,9 @@ How about a Chef/Cucumber/JRuby/Clojure/AMQP/RabbitMQ(ergo Erlang) "in the real 
 Somehow do an end to end walkthrough of the systems you guys work on, and all the touchpoints that emerging technology has in it. All in 45 minutes. Not sure if this is doable, or how much value people would see it. I think it would be a cool talk. The point could just be to illustrate how you can build something big and fast and reliable using all this emerging open source tech.
 
 
-## Strategies for Living on the Bleeding Edge: A Case Study in the Financial Industry
+## Living on the Bleeding Edge: A Case Study in the Financial Industry
 
-## Strategies for Living on the Bleeding Edge in the Financial Industry: A Case Study in Using Clojure, AMQP, Chef, Cucumber and JRuby
+## Living on the Bleeding Edge in the Financial Industry: A Case Study in Using Clojure, AMQP, Chef, Cucumber and JRuby
 
 Proposed Summary:
 
