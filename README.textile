@@ -1,12 +1,81 @@
-# Philly ETE 2010 Talk
+CONVERT TO TEXTILE
+
+
+h1. Living on the Bleeding Edge: A Case Study in Using Clojure, AMQP, Chef, Cucumber and JRuby in the Financial Industry
+
+
+h1. Philly ETE 2010 Talk
+
+Summary posted to the "Emerging Tech Website":http://phillyemergingtech.com/
+
+bq. Have you been itching to try emerging technologies like Clojure, AMQP, Chef, Cucumber or JRuby? We'll cover what happened to us when we proposed these hot (unproven!) new technologies, management said yes, and we had to deliver by sharing our story of building a message exchange in the financial industry. We think hearing our story will help give you the confidence to take these technologies into your own enterprise.
+
+
+h2. Aaron's Thoughts
+
+"Time to market is critical in the financial industry"
+
+Collateral Messaging is a brand new market.
+
+Our main competitor actually made it to market before we did (gulp).
+
+They are a startup.
+
+Would probably like to rephrase this:  The messaging project within Algorighmics has been given the latitude to exhitibt some of the behaviors of a startup.
+
+* we don't have the pressure (at the moment) of hand-to-mouth
+* were given the latitude to chose the technology stack (yay)
+* alternative recruting strategies
+
+* Small "company".  This division before messaging contained around 20 people.  Now we have more than 30.
+
+h3. Project time line
+2008 Feb - 0 - Prototype
+2008 Apr - 0 - Convinced CTO / Demo
+2008 May - 0 - Demo
+2008 Jun - 0 - Received funding
+
+
+
+
+h3. How the project was initiated
+
+Were sitting on the concept for many years
+
+Competitor Emerged
+
+Rapidly built a Prototype (RabbitMQ and Ruby on Rails) to prove to internal Executives that it could be done within the collatearl division (here in Philly).  Facilitated by the existance of and heavy leveraging of Open Source (eg: RabbitMQ, Rails).  _Even_ though the division is a (conservative) .NET / C# shop.
+
+Prototype was well received, but lead to questioning by the CTO of the technology choices.  This was a _huge_ change from the typical stack.
+
+Validation of the technology stack by researching various alternatives.  Since time to market is very important.
+
+
+Success!
+
+Er, shit, now I (Aaron) have to deliver.
+
+Where am I going to find the good people?
+
+
+h1. Who do we think our audience is?
+
+Local business people (developers, executives)
+
+Developer looking forward to do cool things
+
+h1. What do we think they want to get out of our session?
+
+
+h1. Old presentation  notes / ideas are below
+
 
 Work with Trotter on ideas for the presentation...
 
 
+h2. Use Of Open Source in the Enterprise or Financial Industry
 
-## Use Of Open Source in the Enterprise or Financial Industry
-
-Is it ok for me to use this in the Financial Industry?
+Is it ok for me to use this in "this environment" esp: "the Financial Industry"?
 
 How do I convince my boss?
 
@@ -29,7 +98,7 @@ Where did it work for us?
 When to open a library to the public. Aka, what is intelluctual property I should protect?
 
 
-## Scott's Comments:
+h2. Scott's Comments:
 
 Thinking out loud... note we originally brought you guys in under the Languages track with this description:
 
@@ -58,9 +127,9 @@ How about a Chef/Cucumber/JRuby/Clojure/AMQP/RabbitMQ(ergo Erlang) "in the real 
 Somehow do an end to end walkthrough of the systems you guys work on, and all the touchpoints that emerging technology has in it. All in 45 minutes. Not sure if this is doable, or how much value people would see it. I think it would be a cool talk. The point could just be to illustrate how you can build something big and fast and reliable using all this emerging open source tech.
 
 
-## Living on the Bleeding Edge: A Case Study in the Financial Industry
+h2. Living on the Bleeding Edge: A Case Study in the Financial Industry
 
-## Living on the Bleeding Edge in the Financial Industry: A Case Study in Using Clojure, AMQP, Chef, Cucumber and JRuby
+h2. Living on the Bleeding Edge in the Financial Industry: A Case Study in Using Clojure, AMQP, Chef, Cucumber and JRuby
 
 Proposed Summary:
 
@@ -100,7 +169,7 @@ How did you get this to perform?
 
 
 
-## Strategies for Living on the Bleeding Edge in the Financial Industry: A Case Study
+h2. Strategies for Living on the Bleeding Edge in the Financial Industry: A Case Study
 
 We have the feeling that you feel that the title would have more draw if the
 specific technologies were mentioned in the title, so we could go with what you
@@ -319,13 +388,13 @@ Personal Observation: Contemplating writing our messaging code in Ruby (from Clo
 Hiring Resources / Learning Clojure (vs something like Scala):  Clojure is much smaller of a langauge than Scala, but most of you out there refuse to work in a Lisp (look around the room).
 
 
-## Highly Interactive Applications: Javascript in The Browser
+h2. Highly Interactive Applications: Javascript in The Browser
 
 YUI, jQuery, our pretty complex web front end using very small bits of data back and forth with the server, the patterns of interaction we recognized (eg: the url hash / bookmarking feature)...
 
 
 
-## Trends in Enterprise Automation
+h2. Trends in Enterprise Automation
 
 Is your organization dying from an inability to provision systems and move your application through QA quickly enough? The world we live is changing as automated tools make it easier to leverage vast numbers of systems and test code with fewer people. In this talk, we'll discuss what we see as the emerging trends in automated deployment and testing. We'll talk about how tools like Chef and Cucumber allow you to scale your team further.
 
@@ -375,7 +444,7 @@ Is your organization dying from an inability to provision systems and move your 
 
 
 
-## Patterns of Enterprise Messaging with AMQP and RabbitMQ
+h2. Patterns of Enterprise Messaging with AMQP and RabbitMQ
 
 JMS, (IBM?) MQ, MSMQ or Tibco's days may be numbered, there's a new protocol in town: AMQP.  Open Source, Standardized Asynchronous Messaging is maturing with the release of RabbitMQ and other AMQP implementations.  This highly performant, technology neutral protocol allows you to write your messaging clients in any language you want.  In this talk we'll discuss the AMQP standard, how you can leverege it in your architecture, and RabbitMQ in particular.
 
@@ -443,7 +512,7 @@ JMS, (IBM?) MQ, MSMQ or Tibco's days may be numbered, there's a new protocol in 
 - Part V: Clustering, Failover
 
 
-## notes from the 2010/01/21 Conference Call
+h2. notes from the 2010/01/21 Conference Call
 
 "That did make it ok to live on the bleeding edge." - Trotter talking about things like Chef, Cucumber, Rspec and automation
 
