@@ -29,33 +29,78 @@ Would probably like to rephrase this:  The messaging project within Algorighmics
 
 * Small "company".  This division before messaging contained around 20 people.  Now we have more than 30.
 
-h3. Project time line
-2008 Feb - 0 - Prototype
-2008 Apr - 0 - Convinced CTO / Demo
-2008 May - 0 - Demo
-2008 Jun - 0 - Received funding
-
-
 
 
 h3. How the project was initiated
 
 Were sitting on the concept for many years
 
-Competitor Emerged
+Competitor Emerged in early 2009.
 
-Rapidly built a Prototype (RabbitMQ and Ruby on Rails) to prove to internal Executives that it could be done within the collatearl division (here in Philly).  Facilitated by the existance of and heavy leveraging of Open Source (eg: RabbitMQ, Rails).  _Even_ though the division is a (conservative) .NET / C# shop.
+Sparked interest in the organization.
+
+Rapidly built a Prototype (RabbitMQ and Ruby on Rails) to prove to internal Executives that it could be done within the collatearl division (here in Philly).  Facilitated by the existance of and heavy leveraging of Open Source (eg: RabbitMQ, Rails).  _Even_ though the division is a (somewhat conservative) .NET / C# shop.
 
 Prototype was well received, but lead to questioning by the CTO of the technology choices.  This was a _huge_ change from the typical stack.
 
-Validation of the technology stack by researching various alternatives.  Since time to market is very important.
+Choice of stack stressed as enabler, b/c time to market is very important.
 
+Validation of the technology stack by researching various alternatives.
 
-Success!
+Success: you've been approved / funded.
 
 Er, shit, now I (Aaron) have to deliver.
 
 Where am I going to find the good people?
+
+
+h3. Project time line
+
+2008 Jan -   - Aaron takes over responsibility for organizing Philly Lambda
+
+2009 Feb - 0 - Initial Prototype
+
+2009 Apr - 0 - Convinced CTO / Demo
+
+2009 May - 0 - Demo
+
+2009 Jun - 1 - Received funding
+
+2009 Jul - 3 - first two developers hired
+
+2009 Aug - 4 - thrid developer hired
+
+2009 Nov - 4 - 8th:  Linode Experiences Widespread outages (doh!)
+
+2009 Nov - 4 - 9th:  We provision and re-deploy to Slicehost for the demo in 1/2 a day (go automation!)
+
+2009 Nov - 4 - 10th: Live Demonstration to Banking Industry in NYC.
+                     Messaging support for two different collateral management
+                     solutions including a web based portal for less sophisiticated users.
+
+h3. What do you think of when you read 'Financial Industry'?
+
+Moves Slowly?
+                   (picture of a turtle / tortoise?)
+Catching up.
+
+Mainframes?
+                   (find a picture of a mainframe)
+COBOL?
+
+Technologically Conservative?
+
+
+h3. How vast is Collateral Management?
+
+These #'s are conservative (since the OTC market isn't regulated):
+
+  250  Billion  in 2001
+1.3    Trillion in 2006
+??     ??illion in 2009
+
+NOTE: a centralized messaging exchange could provide that kind of insight (hint hint)
+
 
 
 h1. Who do we think our audience is?
