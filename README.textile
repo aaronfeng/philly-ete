@@ -108,5 +108,47 @@ h1. What do we think they want to get out of our session?
 
 Kyle: to hear how we were able to use these technologies, how we were able to get them approved by the company, what the typical arguments are against these choices and what the facts are that dismiss those arguments.  How we leveraged these technologies and how they were better than the more traditional counterparts (eg: Clojure vs Java; Rails vs Spring).
 
+That's quite a mix of technologies, how will you find developers who can work in all of those?
+
+h3. Polyglot is the new normal.
+
+This is as much a story of trying to find good talent as it is the pick of technology.  It's easy to look at this project from both directions.  Did he pick a tech stack he thought would attract good developers?  Or did he pick the stack based on it's technical merit, only later hoping he'd find good developers?
+
+Aaron's goal was to find the best programmers in the area to work with him on this project.  He valued experience and the ability to think outside the box.  Paul Graham writes about the same ideas in his "essays":http://paulgraham.com/articles.html.  Graham beleives that better programmers are continually looking to new programming languages in an attempt to imporove their ability to scale themselves.  Looking for better tools and more expressive languages.  Aaron went with this idea - he picked technologies that held promise for him:  Lisp's expressiveness and ability to model complex problems more easily than other languages; Ruby on Rails productivity as a web development stack; and AMQP through RabbitMQ, build on Erlang, known for its reliability and performance.  To build a team, Aaron worked a rather eliete local users group, Philly Lambda, looking for who he felt were the more well regarded developers in the area.  He continues to stay active with the group, dedicating a lot of his personal time to it, so that his network, his connections, to all those programmers stays active and refreshed.
+
+Those programmers want to work in these technologies.  All technologies have their warts, the best people can make projects work regardless of their shortcomings.  Those are the kinds of people Aaron wanted.
 
 
+h3. Aside: "The Best Programmers"
+
+Who are they? How do you know then when you see them?
+
+What do they want?
+
+They want their daily lives to be interesting.  They want a challenge.  Sometimes the technology stack being new is enough of a challenge even if the problem being solved is not.  New problem domains, complex problem domains.  Domains with enough depth that they will have to continually learn, study and practice.
+
+They want to work with the other 'best' programmers.  They want to have a tight night team and they want the team members to compliment each other, to continually improve.
+
+They want to work with the best tools in a good environment.
+
+
+h1. Major Players in our Technology Stack
+
+* Clojure
+* JRuby
+** Rails
+** Cucumber
+** Chef
+* RabbitMQ
+* JavaScript
+** jQuery
+** YUI
+
+For each major player, consider the following aspects:
+
+* How it was chosen
+* why was it a good fit?
+* what was the case agasinst it?
+* what facts helped get it past those concerns?
+* What [unforseen] benefits did we end up discovering?
+* What warts did we end up discovering or working around?
