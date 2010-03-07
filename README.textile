@@ -127,7 +127,7 @@ What do they want?
 
 They want their daily lives to be interesting.  They want a challenge.  Sometimes the technology stack being new is enough of a challenge even if the problem being solved is not.  New problem domains, complex problem domains.  Domains with enough depth that they will have to continually learn, study and practice.
 
-They want to work with the other 'best' programmers.  They want to have a tight night team and they want the team members to compliment each other, to continually improve.
+They want to work with the other 'best' programmers.  They want to have a tight night team and they want the team members to compliment each other, to continually improve.  A great programmer working on a team without other 'great' programmers will experience a decay of morale and will often look for a way to change.
 
 They want to work with the best tools in a good environment.
 

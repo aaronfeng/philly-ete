@@ -1,0 +1,37 @@
+h1. References and Glossary
+
+h3. ISDA Margin Survey 2009
+
+http://www.isda.org/c_and_a/pdf/ISDA-Margin-Survey-2009.pdf 
+
+"...grew from $2.1 to almost $4.0 trillion during 2008, a growth rate of 86 percent, following 60 percent growth in 2007"
+
+"The number of reported collateral agreements in place grew to almost 151,000...forecast further growth of 26 percent during 2009"
+
+Billions Managed
+year  reported  estimated
+2000  138 200
+2001  145 250
+2002  289 437
+2003  491 719
+2004  707 1017
+2005  854 1209
+2006  922 1329
+2007  924 1335
+2008  1470  2126
+2009  2640  3957
+
+
+Collateral Agreements
+2000  12000
+2001  16000
+2002  28140
+2003  38453
+2004  54838
+2005  70892
+2006  109733
+2007  132732
+2008  149322
+2009  150881
+
+
